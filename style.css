@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(104, 109, 107);
+}
+.box{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 300px;
+    gap: 30px;
+   
+    
+   
+}
+.home-1 img{
+    width: 300px;
+    height: 300px;
+}
+
+.home-2 img{
+    width: 300px;
+    height: 300px;
+}
+
+.home-3 img{
+    width: 300px;
+    height: 300px;
+}
+
+.home-4 img{
+    width: 300px;
+    height: 300px;
+}
